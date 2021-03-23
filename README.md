@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @virensachdev786
+- 👀 I’m interested in core computer science, Problem solving, designing.
+- 🌱 I’m currently learning data structures/Algorithms, machine learning and web-developement.
+- 💞️ I’m looking to collaborate on software engineering (I love exploring so, I am open to learn new things and help with the present skills I have).
+- 📫 How to reach me: email: virens88@gmail.com, virensachdev@mail.adelphi.edu && mobile: +1 (484) 364-8529.
